@@ -1,4 +1,4 @@
-# Relay – Frontend
+# Communication(messagin_platform) – Frontend
 
 React client for the Spring Boot **communication platform** backend: groups, channels, direct messages, notifications, presence, file sharing and an admin console, with live updates over WebSocket (STOMP).
 
